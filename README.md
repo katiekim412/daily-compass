@@ -28,19 +28,17 @@
   * **API 처리**: `Azure Functions (Serverless)` → `Cosmos DB` / `AI Service` / `External API`
   * **보안**: 모든 주요 리소스(DB, Storage)는 **Private Endpoint**를 통해 외부 접근을 원천 차단하고, 격리된 가상 네트워크(VNet) 내에서만 통신하여 데이터 유출 위험을 최소화했습니다.
 
-*(위 이미지는 예시이며, 실제 이미지 경로로 수정해주세요.)*
-
 -----
 
 ## 🛠 기술 스택
 
 | 구분 | 기술 |
 | --- | --- |
-| **Cloud & Infra** | [cite\_start]Azure Functions, Azure Cosmos DB (MongoDB API), Azure Static Web Apps, Azure AI Speech Service, VMSS, Private Endpoint, VNet, NSG, Application Insights  |
-| **Backend** | [cite\_start]Node.js, Azure Functions, Cheerio, Axios  |
-| **Frontend** | [cite\_start]React, CSS, JavaScript  |
-| **Database** | [cite\_start]Azure Cosmos DB (MongoDB API)  |
-| **DevOps** | [cite\_start]GitHub Actions (CI/CD)  |
+| **Cloud & Infra** | Azure Functions, Azure Cosmos DB (MongoDB API), Azure Static Web Apps, Azure AI Speech Service, VMSS, Private Endpoint, VNet, NSG, Application Insights  |
+| **Backend** | Node.js, Azure Functions, Cheerio, Axios  |
+| **Frontend** | React, CSS, JavaScript  |
+| **Database** | Azure Cosmos DB (MongoDB API)  |
+| **DevOps** | GitHub Actions (CI/CD)  |
 
 -----
 
