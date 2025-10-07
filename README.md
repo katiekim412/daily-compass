@@ -96,5 +96,5 @@
 ### 👤 Author
 
   - **이름**: 김태영
-  - **역할**: 클라우드 아키텍트 & 개발자
+  - **역할**: 클라우드 / 인프라 엔지니어 (Cloud & Infrastructure Engineer)
   - **Contact**: katiekim412@gmail.com | [LinkedIn](http://www.linkedin.com/in/katiekim412)
